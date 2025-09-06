@@ -2,8 +2,8 @@
 ## Description
 This is my first React Native application created for CPAN 213 course.
 ## Student Information
-- Name: [Your Name]
-- Student ID: [Your ID]
+- Name: April Paz
+- Student ID: N01327224
 - Course: CPAN 213 - Cross-Platform Mobile Application Development
 - Date: September 2, 2025
 ## Getting Started
@@ -16,10 +16,10 @@ This is my first React Native application created for CPAN 213 course.
 - Course goals section
 - Custom styling with StyleSheet
 ## Development Environment
-- Node.js: [version]
-- React Native: [version]
-- Android Studio: [version]
-- VS Code: [version]
+- Node.js: v22.8.0
+- React Native: 10.8.2
+- Android Studio: Android Studio Narwhal 3 Feature Drop | 2025.1.3
+- VS Code: Version 16.4 (16F6)
 
 
 ----------------------
