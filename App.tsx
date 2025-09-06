@@ -17,7 +17,7 @@ return (
 <Text style={styles.subtitle}>Cross-Platform Mobile Development</Text>
 </View>
 <View style={styles.content}>
-<Text style={styles.greeting}>Hello, I'm April Paz!</Text>
+<Text style={styles.greeting}>Hello, I'm April!</Text>
 <Text style={styles.info}>Student ID: N01327224</Text>
 <Text style={styles.info}>Program: Computer Programming</Text>
 <View style={styles.goals}>
