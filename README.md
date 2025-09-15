@@ -22,7 +22,7 @@ This is my first React Native application created for CPAN 213 course.
 - VS Code: Version 16.4 (16F6)
 
 
-----------------------
+---------------------------------------------------------------------------------------------------------
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
