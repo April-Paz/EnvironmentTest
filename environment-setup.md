@@ -39,27 +39,13 @@
 # Step 6: iOS Development Setup
 1.  Downloaded Xcode from Mac App Store (16.0)
 2.  Installed Xcode Command Line Tools:
-    ```bash
-    xcode-select --install
-    ```
-3.  Installed CocoaPods:
-    ```bash
-    sudo gem install cocoapods
-    ```
+3.  Installed CocoaPods
 
 ### Step 8: Test Environment Setup
-1.  Created test project:
-    ```bash
-    npx react-native init EnvironmentTest
-    ```
-2.  Successfully ran on iOS simulator:
-    ```bash
-    npx react-native run-ios
-    ```
-3.  Successfully ran on Android emulator:
-    ```bash
-    npx react-native run-android
-    ```
+1.  Created project: npx react-native init EnvironmentTest
+2.  Ran on iOS simulator: npx react-native run-ios
+3.  Ran on Android emulator: npx react-native run-android
+
 
 ## Deviations from Lab Instructions
 | Environment Variables: I saved the export  commands to my `~/.zshrc` file permanently. 
