@@ -3,4 +3,6 @@ ios/
 android/
 coverage/
 __tests__/
-*.md
+.expo/
+dist/
+.expo-shared/
